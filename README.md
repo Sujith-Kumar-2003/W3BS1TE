@@ -25,6 +25,11 @@ Badges
 <img src="https://github.com/Sujith-Kumar-2003/W3BS1TE/assets/146370556/9b934389-53f1-4a23-ad7e-79eb74d82422" width="100" height="100" alt="Badge 2">
 <img src="https://github.com/Sujith-Kumar-2003/W3BS1TE/assets/146370556/e22f7751-7df8-4d9d-a2c8-4424aa49c9a8" width="100" height="100" alt="Badge 3">
 
+Badges
+![My Badges]("https://github.com/Sujith-Kumar-2003/W3BS1TE/assets/146370556/cec9660c-ae96-4bc9-9933-2379bebbc6ab" width="100" height="100" alt="Badge 1")
+![My Badges]("https://github.com/Sujith-Kumar-2003/W3BS1TE/assets/146370556/9b934389-53f1-4a23-ad7e-79eb74d82422" width = "100" height = "100" alt= "Badge 2")
+![My Badges](https://github.com/Sujith-Kumar-2003/W3BS1TE/assets/146370556/e22f7751-7df8-4d9d-a2c8-4424aa49c9a8" width = "100" height = "100" alt= "Badge 3")
+
 
 My GitHub Stats
 
