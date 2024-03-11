@@ -21,8 +21,8 @@ Skills
 
 Badges
 ![My Badges](https://github.com/Sujith-Kumar-2003/W3BS1TE/assets/146370556/cec9660c-ae96-4bc9-9933-2379bebbc6ab)
-![My Badges](https://github.com/Sujith-Kumar-2003?achievement=quickdraw&tab=achievements)
-![My Badges](https://github.com/Sujith-Kumar-2003?achievement=yolo&tab=achievements)
+![My Badges](https://github.com/Sujith-Kumar-2003/W3BS1TE/assets/146370556/9b934389-53f1-4a23-ad7e-79eb74d82422)
+![My Badges](https://github.com/Sujith-Kumar-2003/W3BS1TE/assets/146370556/e22f7751-7df8-4d9d-a2c8-4424aa49c9a8)
 
 
 My GitHub Stats
